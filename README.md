@@ -1,5 +1,5 @@
 # EMS-N64-Passport-III
-The full schematic, gerbers, and the rom for the N64 Passport III (Gameshark clone)
+The full schematic, gerbers, the GAL JEDEC, and the rom for the N64 Passport III (Gameshark clone)
 
 PCB Thickness: 1.2 mm
 
